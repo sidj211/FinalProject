@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject.iml" group="FinalProject" />
+      <module fileurl="file://$PROJECT_DIR$/Jokes/Jokes.iml" filepath="$PROJECT_DIR$/Jokes/Jokes.iml" group="FinalProject/Jokes" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="FinalProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" group="FinalProject/backend" />
+      <module fileurl="file://$PROJECT_DIR$/app/givejoke/givejoke.iml" filepath="$PROJECT_DIR$/app/givejoke/givejoke.iml" group="FinalProject/app/givejoke" />
+      <module fileurl="file://$PROJECT_DIR$/jokelib/jokelib.iml" filepath="$PROJECT_DIR$/jokelib/jokelib.iml" group="FinalProject/jokelib" />
+      <module fileurl="file://$PROJECT_DIR$/app/showjokes/showjokes.iml" filepath="$PROJECT_DIR$/app/showjokes/showjokes.iml" group="FinalProject/app/showjokes" />
+      <module fileurl="file://$PROJECT_DIR$/telljoke/telljoke.iml" filepath="$PROJECT_DIR$/telljoke/telljoke.iml" group="FinalProject/telljoke" />
+    </modules>
+  </component>
+</project>

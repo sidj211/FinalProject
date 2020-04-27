@@ -1,0 +1,6 @@
+include ':app', ':backend'
+include ':app:showjokes'
+include ':Jokes'
+include ':jokelib'
+include ':telljoke'
+include ':app:givejoke'
